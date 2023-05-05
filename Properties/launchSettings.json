@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Main_Method_And_Args": {
+      "commandName": "Project",
+      "commandLineArgs": "hei på deg hyggelig da eller er det egentlig det"
+    }
+  }
+}
